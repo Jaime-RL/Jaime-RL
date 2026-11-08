@@ -33,4 +33,4 @@ and I'm especially interested in **LLMs, agentic systems and making inference fa
 🛠️ An LLM multi-agent system with structured shared memory (LangGraph) — currently in the design phase.
 
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/jaime-rl/) · [jrl559@alumnos.unican.es](mailto:jrl559@alumnos.unican.es)
+[LinkedIn](https://www.linkedin.com/in/jaime-rl/) · [jaimerl.pc@gmail.com](mailto:jaimerl.pc@gmail.com)
