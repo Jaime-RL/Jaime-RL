@@ -1,29 +1,36 @@
 # Hi, I'm Jaime 👋
 
-Final-year Computer Engineering student at **Universidad de Cantabria**, focused on **building AI solutions with LLMs, agents and machine learning**.
+Final-year Computer Engineering student at **Universidad de Cantabria** (Erasmus at Mälardalen University, Sweden).
+I like understanding ML from the ground up — I implement algorithms from scratch before using the libraries —
+and I'm especially interested in **LLMs, agentic systems and making inference fast**.
 
-## 🔭 What I'm working on
-- An **LLM-based multi-agent system** using **structured shared memory** and **multi-token prediction**
-- Learning: agent orchestration (LangGraph), RAG, PyTorch and Hugging Face Transformers
+📍 Santander, Spain · 🎓 Graduating June 2027 · 🔎 Open to AI/ML internships
 
-## 🧠 Interests
+## Interests
 - LLM-powered applications and autonomous agents
-- Machine learning for real-world problems
-- High-performance and distributed systems that make AI scale
+- Efficient inference: quantization, batching, parallel hardware
+- Probabilistic reasoning and classic ML for real-world problems
 
-## 🛠️ Tech
+## Tech
 **Languages:** Python · C++ · Java · C# · C
 
-**ML / AI:** scikit-learn · imbalanced-learn · NumPy · pandas · Matplotlib · Seaborn · NetworkX
+**ML / AI:** scikit-learn · imbalanced-learn · NumPy · pandas · NetworkX · Matplotlib
 
-**Data & Cloud:** Hadoop (MapReduce) · Docker · Flask · PostgreSQL · SQLite · SQL
+**Systems & HPC:** OpenMP · MPI · SSE/AVX · CMake · Docker · Hadoop (MapReduce)
 
-## 📌 Featured projects
-| Project | What it shows |
+**Data & Backend:** Flask · PostgreSQL · SQLite
+
+## Featured projects
+| Project | Highlights |
 |---|---|
-| [ML-Fraud-Detection](https://github.com/Jaime-RL/ML-Fraud-Detection) | Machine learning for fraud detection |
-| [Cloud-IoT-Hadoop](https://github.com/Jaime-RL/Cloud-IoT-Hadoop) | Distributed data processing in the cloud |
-| [Parallel-Systems-HPC](https://github.com/Jaime-RL/Parallel-Systems-HPC) | Parallel and high-performance computing in C++ |
+| [ML-Fraud-Detection](https://github.com/Jaime-RL/ML-Fraud-Detection) | Fraud detection on a 0.17 % positive class — SMOTE written from scratch, leakage-free pipeline, PR-AUC |
+| [Artificial-Intelligence](https://github.com/Jaime-RL/Artificial-Intelligence) | A*, CSP, metaheuristics and a neural network with hand-written backpropagation |
+| [Parallel-Systems-HPC](https://github.com/Jaime-RL/Parallel-Systems-HPC) | SIMD, OpenMP and MPI labs + parallel Game of Life with false-sharing benchmarks |
+| [Cloud-IoT-Hadoop](https://github.com/Jaime-RL/Cloud-IoT-Hadoop) | Dockerised IoT pipeline: sensors → Flask API → Hadoop MapReduce geo-aggregation |
+| [OpenGL-Shader-and-Animation](https://github.com/Jaime-RL/OpenGL-Shader-and-Animation) | Real-time renderer with Phong/toon GLSL shaders and linear algebra written from scratch |
 
-## 📫 Contact
-[LinkedIn](https://www.linkedin.com/in/jaime-rodr%C3%ADguez-l%C3%B3pez/) · [jrl559@alumnos.unican.es](mailto:jrl559@alumnos.unican.es)
+## Next up
+🛠️ An LLM multi-agent system with structured shared memory (LangGraph) — currently in the design phase.
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/jaime-rodr%C3%ADguez-l%C3%B3pez) · [jrl559@alumnos.unican.es](mailto:jrl559@alumnos.unican.es)
